@@ -1,0 +1,4 @@
+fault_id,type,start_subgroup,end_subgroup,start_time,end_time,magnitude,magnitude_unit,cause
+1,drift,433,672,2026-01-10,2026-01-14 23:30:00,0.03,mm,Melt temperature drift (barrel heater zone)
+2,shift,817,960,2026-01-18,2026-01-20 23:30:00,0.02,mm,New resin lot with different melt flow
+3,variance,1105,1296,2026-01-24,2026-01-27 23:30:00,2.5,sigma multiplier,Unstable puller drive (speed fluctuation)
